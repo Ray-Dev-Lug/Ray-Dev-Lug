@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ray-Dev-Lug , Devin Luginbill
 - 👀 I’m interested in ... R, Probability, Data Science, Mathematics, my dog Juno.
-- 🌱 I’m currently learning ... R, Python, Data Science, Number Theory, Mathematics of Finance, Probability Theory
+- 🌱 I’m currently learning ... github, R, Python, Data Science, Number Theory, Mathematics of Finance, Probability Theory
 - 💞️ I’m looking to collaborate on ... R, Python, Data Science Projects
 - 📫 How to reach me ... e-mail: luginbi92@gmail.com
 
